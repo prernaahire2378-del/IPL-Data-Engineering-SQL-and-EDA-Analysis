@@ -86,7 +86,7 @@ Wickets
 
 ---
 
-# Technologies Used
+# Skills Used
 
 Python
 
