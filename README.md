@@ -108,12 +108,12 @@ GitHub
 
 # Data Engineering Process
 
-Data Collection
+* Data Collection -
 
 Imported IPL datasets into Google Colab environment.
 
 
-Data Cleaning
+* Data Cleaning -
 
 Checked dataset structure and data types.
 
@@ -126,14 +126,14 @@ Removed columns with excessive missing values.
 Validated the cleaned dataset.
 
 
-Duplicate Handling
+* Duplicate Handling -
 
 Checked for duplicate records.
 
 Removed duplicate entries to maintain data quality.
 
 
-Outlier Detection
+* Outlier Detection -
 
 Detected outliers in numerical columns using the Interquartile Range (IQR) method.
 
@@ -247,7 +247,7 @@ GitHub Project Management
 
 ---
 
-#Future Improvements
+# Future Improvements
 
 Build an interactive Power BI dashboard.
 
